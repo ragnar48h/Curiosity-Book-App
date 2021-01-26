@@ -1,0 +1,1 @@
+{"version":3,"sources":["TouchableItem.tsx"],"names":["TouchableOpacity","TouchableItem"],"mappings":"AAAA,SAASA,gBAAT,QAAiC,cAAjC;AAEA,OAAO,MAAMC,aAAa,GAAID,gBAAvB","sourcesContent":["import { TouchableOpacity } from 'react-native';\n\nexport const TouchableItem = (TouchableOpacity as any) as typeof import('./TouchableItem.native').TouchableItem;\n"]}

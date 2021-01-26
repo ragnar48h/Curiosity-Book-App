@@ -1,0 +1,2 @@
+import{UIManager}from'react-native';var RNCSafeAreaViewConfig=UIManager.getViewManagerConfig('RNCSafeAreaView');export default RNCSafeAreaViewConfig!=null&&RNCSafeAreaViewConfig.Constants!=null?RNCSafeAreaViewConfig.Constants.initialWindowSafeAreaInsets:null;
+//# sourceMappingURL=InitialWindowSafeAreaInsets.js.map
