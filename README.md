@@ -24,8 +24,8 @@ react-native start
 ## Screenshots
 
 <p float="left" >
-  <img src="./screenshot1.png" width="70%" />
-  <img src="./screenshot2.png" width="60%" /> 
+  <img src="./screenshot-1.jpg" width="70%" />
+  <img src="./screenshot-2.jpg" width="60%" /> 
 </p>
 
 <!-- ![alt text](./ss1.png "Screenshot 1") ![alt text](./ss2.png "Screenshot 2") -->
