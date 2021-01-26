@@ -1,5 +1,5 @@
 # Curiosity-Book-App
-> This was a personal project, made out of the curiosity to read books and the unavailability of good book readers with the functionality that I wanted.<br/>
+> This was a personal project, made out of the curiosity to read books and the unavailability of good e-book readers with the note taking functionality that I wanted.<br/>
 
 The app has the following features:<br/>
 
@@ -9,7 +9,7 @@ The app has the following features:<br/>
 4. Create Notes, with features like Adding Tags to track important Highlights/Notes.
 
 ## Steps to Start
-Feel free to pull and use the app. Use the following steps:
+Feel free to pull and use the app. Run the following commands:
 
 ```javascript
 npm install 
