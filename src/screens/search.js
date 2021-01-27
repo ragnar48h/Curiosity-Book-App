@@ -128,7 +128,8 @@ export default class search extends Component {
         0,
         bookNameProcessed.lastIndexOf(' '),
       );
-      downloadPageLinkArray[index] = $("a[title='Libgen.lc']")
+      
+      downloadPageLinkArray[index] = $("---DM to know key---")
         .eq(index)
         .attr('href');
 
@@ -195,7 +196,7 @@ export default class search extends Component {
     searchString = searchString.replace(/\s/g, '+');
     // ------------------------------- DM to know the Source, and be able to run the app properly. -------------------------------
     let returnSearchString =
-      '---';
+      '--DM to get key--';
     returnSearchString =
       returnSearchString.substr(0, 37) +
       searchString +
