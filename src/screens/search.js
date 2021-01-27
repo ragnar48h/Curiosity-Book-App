@@ -193,8 +193,9 @@ export default class search extends Component {
   searchQueryPreprocessor = () => {
     let searchString = this.state.searchQuery;
     searchString = searchString.replace(/\s/g, '+');
+    // ------------------------------- DM to know the Source, and be able to run the app properly. -------------------------------
     let returnSearchString =
-      'http://gen.lib.rus.ec/search.php?req=&open=0&res=25&view=simple&phrase=1&column=def';
+      '---';
     returnSearchString =
       returnSearchString.substr(0, 37) +
       searchString +
