@@ -28,4 +28,6 @@ react-native start
   <img src="./screenshot-2.jpg" width="60%" /> 
 </p>
 
+## PS:
+DM to get the key, to run the app.
 <!-- ![alt text](./ss1.png "Screenshot 1") ![alt text](./ss2.png "Screenshot 2") -->
