@@ -1,2 +1,0 @@
-import{requireNativeComponent}from'react-native';export default requireNativeComponent('RNCSafeAreaView');
-//# sourceMappingURL=NativeSafeAreaView.js.map
