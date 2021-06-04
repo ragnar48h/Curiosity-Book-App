@@ -1,1 +1,0 @@
-{"version":3,"sources":["InitialWindowSafeAreaInsets.web.ts"],"names":["initialWindowSafeAreaInsets"],"mappings":"AAEA,GAAMA,CAAAA,2BAA8C,CAAG,IAAvD,CACA,cAAeA,CAAAA,2BAAf","sourcesContent":["import { EdgeInsets } from './SafeArea.types';\n\nconst initialWindowSafeAreaInsets: EdgeInsets | null = null;\nexport default initialWindowSafeAreaInsets;\n"]}

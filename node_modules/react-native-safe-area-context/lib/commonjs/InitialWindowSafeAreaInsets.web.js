@@ -1,2 +1,0 @@
-Object.defineProperty(exports,"__esModule",{value:true});exports.default=void 0;var initialWindowSafeAreaInsets=null;var _default=initialWindowSafeAreaInsets;exports.default=_default;
-//# sourceMappingURL=InitialWindowSafeAreaInsets.web.js.map
