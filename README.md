@@ -28,6 +28,4 @@ react-native start
   <img src="./screenshot-2.jpg" width="65%" /> 
 </p>
 
-## PS:
-I have changes some part of the app, due to copyright issues and stuff, but you can still use the template, UI, etc. of the app to mix and match to create your own version of the app.
 <!-- ![alt text](./ss1.png "Screenshot 1") ![alt text](./ss2.png "Screenshot 2") -->
