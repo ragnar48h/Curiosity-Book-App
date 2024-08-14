@@ -1,4 +1,4 @@
-# Curiosity-Book-App
+# Curiosity eBook Reader App
 > This was a personal project, made out of the curiosity to read books and the unavailability of good e-book readers with the note taking functionality that I wanted.<br/>
 
 The app has the following features:<br/>
@@ -24,8 +24,8 @@ react-native start
 ## Screenshots
 
 <p float="left" >
-  <img src="./screenshot-1.jpg" width="70%" />
-  <img src="./screenshot-2.jpg" width="60%" /> 
+  <img src="./screenshot-1.jpg" width="65%" />
+  <img src="./screenshot-2.jpg" width="65%" /> 
 </p>
 
 ## PS:
