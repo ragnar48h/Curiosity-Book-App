@@ -194,13 +194,9 @@ export default class search extends Component {
   searchQueryPreprocessor = () => {
     let searchString = this.state.searchQuery;
     searchString = searchString.replace(/\s/g, '+');
-    // ------------------------------- DM to know the Source, and be able to run the app properly. -------------------------------
     let returnSearchString =
-      '--DM to get key--';
-    returnSearchString =
-      returnSearchString.substr(0, 37) +
-      searchString +
-      returnSearchString.substr(37);
+      "https://libgen.is/search.php?req=&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def";
+    returnSearchString = returnSearchString..replace("req=", `req=${searchString}`);;
     console.log(returnSearchString);
     return returnSearchString;
   };
