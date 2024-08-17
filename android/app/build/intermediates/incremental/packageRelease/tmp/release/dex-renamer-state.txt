@@ -1,4 +1,0 @@
-#Mon Jun 08 23:28:10 IST 2020
-base.0=/home/ragnar/mach/Icarus Falls/Icarus Falls/android/app/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
